@@ -1,5 +1,5 @@
 import React from 'react'
-import { ACatalan, ASpanish, CtExternal, CtHeader, CtLang, CtSocial } from './Header.styled'
+import { ALang, CtExternal, CtHeader, CtLang, CtSlider, CtSocial } from './Header.styled'
 import Navbar from '../navbar/Navbar';
 
 function Header() {
@@ -7,14 +7,18 @@ function Header() {
     <CtHeader>
         <CtExternal>
             <CtLang>
-                <ASpanish href='#'>ES</ASpanish>
-                <ACatalan href='#'>CA</ACatalan>
+                <ALang href='#'>ES</ALang>
+                <ALang href='#'>CA</ALang>
             </CtLang>
             <CtSocial>
+                {/* Redes Sociales */}
 
             </CtSocial>
         </CtExternal>
         <Navbar/>
+        <CtSlider>
+            {/* Video */}
+        </CtSlider>
     </CtHeader>
   )
 }
