@@ -1,7 +1,7 @@
 import React from 'react'
 import { CtLinks, CtLogo, CtNavbar, ImgLogo } from './Navbar.styled';
 import { NavLink } from 'react-router-dom';
-import logo from '../../assets/logo-x2.png';
+import logo from '../../assets/logos/logo-x2.png';
 
 function Navbar() {
   return (

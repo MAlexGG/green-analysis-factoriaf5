@@ -7,30 +7,39 @@ export const CtHeader = styled.header `
     align-items: center;
 `;
 
-export const CtExternal = styled.div `
+export const CtLinks = styled.div `
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
-    margin: 0px;
+    margin-top: 0.5em;
+    width: 100%;
 `;
 
 export const CtLang = styled.div `
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
+    padding-left: 2rem;
 `;
 
 export const CtSocial = styled.div `
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
+    width: 13%;
+    padding-right: 3rem;
 `;
 
-export const ALang = styled.a `
+export const ALink = styled.a `
     font-size: 1rem;
     color: var(--color-dark);
     font-weight: var(--font-bold);
     margin: 0px 10px;
+`;
+
+export const ImgLinks = styled.img `
+    width: auto;
+    height: 1.1em;
 `;
 
 export const CtSlider = styled.div `
