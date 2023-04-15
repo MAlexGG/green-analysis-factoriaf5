@@ -3,7 +3,7 @@ import { CtButton } from './Button.styled'
 
 function Button(props) {
   return (
-    <CtButton>{props.text}</CtButton>
+    <CtButton>{props.children}</CtButton>
   )
 }
 

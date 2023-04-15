@@ -10,5 +10,9 @@ export const CtButton = styled.button `
     font-size: 1.2rem;
     font-weight: var(--font-regular);
     font-family: var(--font-main);
+    &:hover{
+        color: white;
+        background-color: var(--color-dark);
+    }
 
 `;

@@ -5,6 +5,7 @@ import Header from '../../components/header/Header'
 import Welcome from '../../components/welcome/Welcome'
 import Google from '../../components/google/Google'
 import Slider from '../../components/slider/Slider'
+import Impact from '../../components/impact/Impact'
 
 function Home() {
   return (
@@ -14,6 +15,7 @@ function Home() {
         <Slider/>
         <Welcome/>
         <Google/>
+        <Impact/>
     </CtHome>
   )
 }

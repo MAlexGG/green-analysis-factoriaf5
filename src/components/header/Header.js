@@ -1,6 +1,5 @@
 import React from 'react'
 import { ALink, CtLinks, CtHeader, CtLang, CtSocial, ImgLinks } from './Header.styled'
-//import Navbar from '../navbar/Navbar';
 import linkedin from '../../assets/socialmedia/linkedin.svg';
 import twitter from '../../assets/socialmedia/twitter.svg';
 import ig from '../../assets/socialmedia/instagram.svg';
@@ -23,7 +22,6 @@ function Header() {
                 <ALink href='#'><ImgLinks src={facebook} alt='facebook'/></ALink>
             </CtSocial>
         </CtLinks>
-        {/* <Navbar/> */}
     </CtHeader>
   )
 }
