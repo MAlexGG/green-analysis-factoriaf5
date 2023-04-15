@@ -7,8 +7,9 @@ export const CtNavbar = styled.nav `
     width: 100%;
     margin: 10px 0px;
     position: sticky;
-    top: 5px;
+    top: -1px;
     background-color: white;
+    z-index: 1;
 `;
 
 export const CtLogo = styled.div `

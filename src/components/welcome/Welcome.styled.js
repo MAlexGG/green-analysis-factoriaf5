@@ -24,7 +24,8 @@ export const TxtSubtitle = styled.h3 `
 
 export const Txt = styled.p `
     font-size: 1.2rem;
-    font-weight: var(--font-secondary);
+    font-family: var(--font-secondary);
+    font-weight: var(--font-regular);
     margin: 1rem 5rem;
     line-height: 2.2rem;
 `;
