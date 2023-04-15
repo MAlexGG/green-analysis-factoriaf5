@@ -8,12 +8,13 @@ export const CtWelcome = styled.div `
     background-color: var(--color-main);
     color: white;
     width: 100%;
+    padding: 1rem 0rem 5rem 0rem;
 `;
 
 export const TxtTitle = styled.h2 `
     font-size: 2.5rem;
     font-weight: var(--font-bold);
-    margin: 1rem 0rem 0.5rem 0rem;
+    margin: 0rem 0rem 0.5rem 0rem;
 `;
 
 export const TxtSubtitle = styled.h3 `

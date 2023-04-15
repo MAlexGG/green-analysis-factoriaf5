@@ -5,6 +5,7 @@ export const CtHeader = styled.header `
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    width: 100%;
 `;
 
 export const CtLinks = styled.div `
@@ -42,9 +43,3 @@ export const ImgLinks = styled.img `
     height: 1.1em;
 `;
 
-export const CtSlider = styled.div `
-    background-color: var(--color-dark);
-    height: 380px;
-    width: 1280px;
-    max-height: 380px;
-`;

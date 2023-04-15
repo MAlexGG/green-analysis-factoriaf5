@@ -6,6 +6,9 @@ export const CtNavbar = styled.nav `
     align-items: center;
     width: 100%;
     margin: 10px 0px;
+    position: sticky;
+    top: 5px;
+    background-color: white;
 `;
 
 export const CtLogo = styled.div `
