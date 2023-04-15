@@ -5,16 +5,25 @@ export const CtNavbar = styled.nav `
     justify-content: space-between;
     align-items: center;
     width: 100%;
-    margin: 30px;
+    margin: 10px 0px;
+`;
+
+export const CtLogo = styled.div `
+    width: 13.5%;
+    height: 100px;
+    overflow: hidden;
+    margin-left: 1%;
 `;
 
 export const ImgLogo = styled.img `
-    width: 100px;
-    height: auto;
+    width: 70%;
+    height: 70%;
+    object-fit: contain;
 `;
 
 export const CtLinks = styled.div `
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
+    width: 66%;
 `;

@@ -11,8 +11,9 @@ export const CtWelcome = styled.div `
 `;
 
 export const TxtTitle = styled.h2 `
-    font-size: 3rem;
+    font-size: 2.5rem;
     font-weight: var(--font-bold);
+    margin: 1rem 0rem 0.5rem 0rem;
 `;
 
 export const TxtSubtitle = styled.h3 `
@@ -22,5 +23,7 @@ export const TxtSubtitle = styled.h3 `
 
 export const Txt = styled.p `
     font-size: 1.2rem;
-    font-weight: var(--font-regular);
+    font-weight: var(--font-secondary);
+    margin: 1rem 5rem;
+    line-height: 2.2rem;
 `;

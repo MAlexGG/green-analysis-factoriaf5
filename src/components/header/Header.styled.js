@@ -11,6 +11,7 @@ export const CtExternal = styled.div `
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 0px;
 `;
 
 export const CtLang = styled.div `
@@ -29,12 +30,12 @@ export const ALang = styled.a `
     font-size: 1rem;
     color: var(--color-dark);
     font-weight: var(--font-bold);
-    margin: 10px;
+    margin: 0px 10px;
 `;
 
 export const CtSlider = styled.div `
     background-color: var(--color-dark);
-    height: 400px;
+    height: 380px;
     width: 1280px;
-    max-height: 400px;
+    max-height: 380px;
 `;

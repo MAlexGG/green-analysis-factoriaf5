@@ -1,19 +1,21 @@
 import React from 'react'
-import { CtLinks, CtNavbar, ImgLogo } from './Navbar.styled';
+import { CtLinks, CtLogo, CtNavbar, ImgLogo } from './Navbar.styled';
 import { NavLink } from 'react-router-dom';
 import logo from '../../assets/logo-x2.png';
 
 function Navbar() {
   return (
     <CtNavbar>
-      <ImgLogo src={logo} alt='logo factoría f5'/>
+      <CtLogo>
+        <ImgLogo src={logo} alt='logo factoría f5'/>
+      </CtLogo>
       <CtLinks>
-        <NavLink to={'/'}>HOME</NavLink>
-        <NavLink to={'/'}>APRENDE</NavLink>
-        <NavLink to={'/'}>COLABORA</NavLink>
-        <NavLink to={'/'}>SOMOS</NavLink>
-        <NavLink to={'/'}>BLOG</NavLink>
-        <NavLink to={'/'}>CONTACTO</NavLink>
+        <NavLink to={'/'} className={({isActive})=> isActive ? 'active' : ' '}>HOME</NavLink>
+        <NavLink to={'/aprende'}>APRENDE</NavLink>
+        <NavLink to={'/colabora'}>COLABORA</NavLink>
+        <NavLink to={'/somos'}>SOMOS</NavLink>
+        <NavLink to={'/blog'}>BLOG</NavLink>
+        <NavLink to={'/contacto'}>CONTACTO</NavLink>
       </CtLinks>
     </CtNavbar>
   )
