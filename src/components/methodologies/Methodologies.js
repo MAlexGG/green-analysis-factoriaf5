@@ -1,5 +1,5 @@
 import React from 'react'
-import { CtMethodologies, CtMethodology, ImgIcon, Txt, TxtTitle } from './Methodologies.styled';
+import { CtMethodologies, CtMethodology, ImgIcon, Txt, TxtTitle, Video } from './Methodologies.styled';
 import icoGradcap from '../../assets/icons/birrete.svg';
 import icoArrow from '../../assets/icons/arrow.svg';
 import icoRocket from '../../assets/icons/rocket.svg';
@@ -8,6 +8,7 @@ import icoPeople from '../../assets/icons/people.svg';
 
 function Methodologies() {
   return (
+    <>
     <CtMethodologies>
         <CtMethodology>
             <ImgIcon src={icoGradcap} alt='graduation cap icon'/>
@@ -30,6 +31,8 @@ function Methodologies() {
             <Txt>Siempre podrás contar con nuestra comunidad coders y alumni de Factoría F5 y el apoyo de la red de escuelas F5.</Txt>
         </CtMethodology>
     </CtMethodologies>
+    <Video src="https://www.youtube.com/embed/L63fgKF2rH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></Video>
+    </>
   )
 }
 

@@ -45,3 +45,10 @@ export const Txt = styled.p `
     font-weight: var(--font-light);
     font-size: 1rem;
 `;
+
+export const Video = styled.iframe`
+    width: 800px;
+    height: 450px;
+    margin-bottom: 3%;
+    border: none;
+`;
