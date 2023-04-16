@@ -1,0 +1,38 @@
+{
+    "testimonials": [{
+            "id": 0,
+            "text": "“El bootcamp me ha posibilitado cambiar de sector y encontrar trabajo en una empresa tecnológica”",
+            "name": "Silvia",
+            "info": "34 años",
+            "image": "3-Silvia.jpg"
+        },
+        {
+            "id": 1,
+            "text": "“Me ha permitido actualizar y profundizar en un campo que me gustaba para lograr un empleo en el sector tecnológico”",
+            "name": "Julián",
+            "info": "29 años, Fullstack Developer en Táctica TIC",
+            "image": "1-Julian.jpg"
+        },
+        {
+            "id": 2,
+            "text": "“Ha sido la oportunidad para empezar a trabajar donde siempre he querido, me ha permitido incorporarme al mundo tecnológico de alto nivel tanto personal como profesionalmente”",
+            "name": "Cristian",
+            "info": "36 años, Fullstack Developer en Táctica TIC",
+            "image": "2-Cristian.jpg"
+        },
+        {
+            "id": 3,
+            "text": "“Mi vida ha dado un giro de 180° desde que entré en la bootcamp de Factoría F5. Antes de entrar en el curso me sentía estancada en mi vida profesional. Ahora, con 5 meses a mi espalda de los 7 que componen el bootcamp, puedo afirmar que se me ha abierto un nuevo camino”",
+            "name": "Elena Peris",
+            "info": "28 años, Fullstack developer en Préstalo",
+            "image": "4-Elena.jpg"
+        },
+        {
+            "id": 4,
+            "text": "“Antes no había terminado ni la ESO y ahora me he formado como diseñador y maquetador web, actualmente tengo un puesto como UX/UI Developer en una empresa de Barcelona, podría decir que gracias a la ayuda del equipo de Factoría F5 y mucho esfuerzo”",
+            "name": "Mauro Marrero",
+            "info": "25 años, UX/UI Developer Mimetizo & Pasiona",
+            "image": "5-Mauro.jpg"
+        }
+    ]
+}
