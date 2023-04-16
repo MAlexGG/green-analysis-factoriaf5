@@ -1,8 +1,8 @@
 import styled from "styled-components";
 
 export const CtButton = styled.button `
-    background-color: white;
-    color: var(--color-main);
+    background-color: ${props => props.background};
+    color: ${props => props.color};
     border: none;
     padding: 13px 40px;
     border-radius: 4px;
@@ -11,8 +11,8 @@ export const CtButton = styled.button `
     font-weight: var(--font-regular);
     font-family: var(--font-main);
     &:hover{
-        color: white;
-        background-color: var(--color-dark);
+        color: ${props => props.hColor};
+        background-color: ${props => props.hBackground};
     }
 
 `;

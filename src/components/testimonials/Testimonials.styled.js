@@ -8,6 +8,7 @@ export const CtTestimonials = styled.div `
     width: 100%;
     background-color: var(--color-grey);
     padding-bottom: 4%;
+    position: relative;
 `;
 
 export const TxtTitle = styled.h2 `
@@ -62,4 +63,36 @@ export const Dot = styled.div `
     height: 10px;
     border-radius: 5px;
     margin: 0% 0.5%;
+`;
+
+export const CtApply = styled.div `
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    position: relative;
+    padding-top: 12%;
+`;
+
+export const ImgDeco = styled.img `
+    width: 18%;
+    position: absolute;
+    top: 3%;
+    right: 3%;
+`;
+
+export const CtVideos = styled.div `
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    margin: 3%;
+`;
+
+export const Video = styled.iframe`
+    width: 560px;
+    height: 315px;
+    border: none;
 `;

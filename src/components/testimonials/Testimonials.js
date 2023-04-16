@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from 'react'
-import { CtDots, CtImg, CtTestimonials, Dot, Img, Txt, TxtName, TxtTitle } from './Testimonials.styled';
+import { CtApply, CtDots, CtImg, CtTestimonials, CtVideos, Dot, Img, ImgDeco, Txt, TxtName, TxtTitle, Video } from './Testimonials.styled';
 import data from '../../assets/data/testimonials.json';
+import deco2 from '../../assets/logos/Banner-geometrico-2.png';
+import Button from '../button/Button';
 
 function Testimonials() {
 
@@ -20,9 +22,8 @@ function Testimonials() {
         }, 5000);
     }, [coder])
 
-    
-    
   return (
+    <>
     <CtTestimonials>
         <TxtTitle>Testimonios</TxtTitle>
         <CtImg>
@@ -36,6 +37,16 @@ function Testimonials() {
             ))}
         </CtDots>
     </CtTestimonials>
+    <CtApply>
+        <ImgDeco src={deco2} alt='decoration'/>
+        <Button color='white' background='var(--color-dark)' hColor='var(--color-main)' hBackground='white'>¡Apúntate ahora!</Button>
+        <CtVideos>
+            <Video src="https://www.youtube.com/embed/itILwNXjEfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></Video>
+            <Video src="https://www.youtube.com/embed/fHF2YytNoQk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></Video>
+        </CtVideos>
+    </CtApply>
+    
+    </>
   )
 }
 
