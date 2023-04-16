@@ -6,6 +6,7 @@ import Welcome from '../../components/welcome/Welcome'
 import Google from '../../components/google/Google'
 import Slider from '../../components/slider/Slider'
 import Impact from '../../components/impact/Impact'
+import Methodologies from '../../components/methodologies/Methodologies'
 
 function Home() {
   return (
@@ -16,6 +17,7 @@ function Home() {
         <Welcome/>
         <Google/>
         <Impact/>
+        <Methodologies/>
     </CtHome>
   )
 }

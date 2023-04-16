@@ -2,10 +2,7 @@ import styled from "styled-components";
 import google from '../../assets/ex-coders/gen-z-4-2.png';
 
 export const CtGoogle = styled.div `
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
+
     background-image: url(${google});
     background-size: cover;
     color: white;
@@ -13,37 +10,32 @@ export const CtGoogle = styled.div `
     background-repeat: no-repeat;
     height: 550px;
     background-position: center;
-    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 1.5%;
+    box-sizing: border-box;
 `;
 
 export const CtFemCoders = styled.button `
     display: flex;
     justify-content: center;
+    flex-direction: column;
     font-family: var(--font-main);
     font-weight: var(--font-light);
-    position: absolute;
-    top: 52%;
-    left: 23%;
     width: 42%;
     height: 68%;
     background: white;
     border-radius: 8px;
     border: none;
     box-shadow: 0 0 0 rgba(0,0,0,0), 0 0 0 rgba(0,0,0,0);
-    transform: translate(-52%,-52%);
-    transition: all 0.3s cubic-bezier(.45,.05,.55,.95) 0s;
+    transition: all .3s ease-in-out;
     &:hover{
-        top: calc( 52% - 0px );
-        border: 1px solid rgba(#F2F4F8, 0);
-        box-shadow: 0 15px 20px rgba(0,0,0,.05), 0 0 5px rgba(0,0,0,.1);
-        cursor: pointer;
-        width: 44%;
-        height: 70%;
+        transform: scale(1.03);
     }
 `; 
 
 export const CtInfo = styled.div `
-    width: 90%;
     display: flex;
     flex-direction: column;
     justify-content: center;

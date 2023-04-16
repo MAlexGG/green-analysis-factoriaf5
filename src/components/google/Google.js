@@ -11,15 +11,19 @@ function Google() {
 
   return (
     <CtGoogle>
-        <CtFemCoders onClick={handleClick}>
-          <CtInfo>
-            <TxtTitle>FemCoders_F5</TxtTitle>
-            <Txt>¿Eres mujer? Encuentra trabajo en el sector de las nuevas tecnologías con nuestras formaciones inclusivas y gratuitas para mujeres impulsadas por Google.org</Txt>
-            <Button>¡Descubre las formaciones!</Button>
-            <ImgGoogle src={google} alt='google.org logo'/>
-          </CtInfo>
-        </CtFemCoders>
+      <CtFemCoders onClick={handleClick}>
+      <CtInfo onClick={handleClick}>
+          <TxtTitle>FemCoders_F5</TxtTitle>
+          <Txt>¿Eres mujer? Encuentra trabajo en el sector de las nuevas tecnologías con nuestras formaciones inclusivas y gratuitas para mujeres impulsadas por Google.org</Txt>
+          <Button>¡Descubre las formaciones!</Button>
+          <ImgGoogle src={google} alt='google.org logo'/>
+        </CtInfo>
+      </CtFemCoders>
     </CtGoogle>
+
+    
+
+
   )
 }
 
