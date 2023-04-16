@@ -8,6 +8,7 @@ import Slider from '../../components/slider/Slider'
 import Impact from '../../components/impact/Impact'
 import Methodologies from '../../components/methodologies/Methodologies'
 import Testimonials from '../../components/testimonials/Testimonials'
+import Support from '../../components/support/Support'
 
 function Home() {
   return (
@@ -20,6 +21,7 @@ function Home() {
         <Impact/>
         <Methodologies/>
         <Testimonials/>
+        <Support/>
     </CtHome>
   )
 }
