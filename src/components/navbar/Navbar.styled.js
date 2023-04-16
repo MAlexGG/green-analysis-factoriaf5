@@ -10,6 +10,7 @@ export const CtNavbar = styled.nav `
     top: -1px;
     background-color: white;
     z-index: 1;
+    box-shadow: rgba(0,0,0,.117647) 0 1px 3px;
 `;
 
 export const CtLogo = styled.div `

@@ -13,26 +13,42 @@ export const CtGoogle = styled.div `
     background-repeat: no-repeat;
     height: 550px;
     background-position: center;
+    position: relative;
 `;
 
 export const CtFemCoders = styled.button `
     display: flex;
-    flex-direction: column;
     justify-content: center;
-    align-items: center;
+    font-family: var(--font-main);
+    font-weight: var(--font-light);
+    position: absolute;
+    top: 52%;
+    left: 23%;
     width: 42%;
     height: 68%;
-    background-color: white;
+    background: white;
     border-radius: 8px;
-    margin: 1rem 0rem 0rem 1rem;
     border: none;
-    font-family: var(--font-main);
-    transition: width 1s, height 1s;
+    box-shadow: 0 0 0 rgba(0,0,0,0), 0 0 0 rgba(0,0,0,0);
+    transform: translate(-52%,-52%);
+    transition: all 0.3s cubic-bezier(.45,.05,.55,.95) 0s;
     &:hover{
+        top: calc( 52% - 0px );
+        border: 1px solid rgba(#F2F4F8, 0);
+        box-shadow: 0 15px 20px rgba(0,0,0,.05), 0 0 5px rgba(0,0,0,.1);
+        cursor: pointer;
         width: 44%;
         height: 70%;
     }
 `; 
+
+export const CtInfo = styled.div `
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+`;
 
 export const TxtTitle = styled.h3 `
     font-size: 2rem;
@@ -47,9 +63,10 @@ export const Txt = styled.p `
     margin: 1.5rem;
     line-height: 1.8rem;
     color: var(--color-dark);
+    width: 450px;
 `;
 
 export const ImgGoogle = styled.img `
-    width: 27%;
+    width: 150px;
     margin: 2rem;
 `;

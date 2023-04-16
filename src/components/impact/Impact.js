@@ -16,7 +16,7 @@ function Impact() {
                 end={810}
                 enableScrollSpy= 'true'
                 scrollSpyOnce = 'true'
-                duration={2.75}
+                duration={3}
                 >
                     {({ countUpRef }) => (
                         <div>
@@ -34,7 +34,7 @@ function Impact() {
                 suffix=' %'
                 enableScrollSpy= 'true'
                 scrollSpyOnce = 'true'
-                duration={2.75}
+                duration={3}
                 >
                     {({ countUpRef }) => (
                         <div>
@@ -52,7 +52,7 @@ function Impact() {
                 suffix=' %'
                 enableScrollSpy= 'true'
                 scrollSpyOnce = 'true'
-                duration={2.75}
+                duration={3}
                 >
                     {({ countUpRef }) => (
                         <div>
