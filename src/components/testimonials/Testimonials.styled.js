@@ -57,6 +57,7 @@ export const CtDots = styled.div `
 
 export const Dot = styled.div `
     border: 1px solid var(--color-dark-grey);
+    background-color: ${(props) => props.background};
     width: 10px;
     height: 10px;
     border-radius: 5px;
