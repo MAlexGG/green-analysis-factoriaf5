@@ -2,6 +2,7 @@ import React from 'react'
 import { CtSupport, Txt, TxtHashtag, TxtSubtitle, TxtTitle, Video } from './Support.styled'
 import Button from '../button/Button'
 import { CtCompanies } from '../supportCompanies/SupportCompanies.styled'
+import SupportCompanies from '../supportCompanies/SupportCompanies'
 
 function Support() {
   return (
@@ -13,6 +14,7 @@ function Support() {
         <TxtSubtitle>Nos apoyan</TxtSubtitle>
         <TxtHashtag>#EmpresasComprometidas</TxtHashtag>
         <CtCompanies/>
+        <SupportCompanies/>
 
     </CtSupport>
   )
