@@ -6,19 +6,15 @@ function SupportCompanies() {
 
   const [list, setList] = useState(data.companies[0]);
 
-useEffect(() => {
-  setTimeout(() => {
-    if(list.id === data.companies.length - 1){
-      setList(data.companies[0]);
-    } else {
-      setList(data.companies[list.id + 1])
-    }
-  }, 5000);
-}, [list])
-
-console.log(list.company)
-console.log(data.companies)
-
+  useEffect(() => {
+    setTimeout(() => {
+      if(list.id === data.companies.length - 1){
+        setList(data.companies[0]);
+      } else {
+        setList(data.companies[list.id + 1])
+      }
+    }, 5000);
+  }, [list]);
 
   return (
     <CtCompanies>

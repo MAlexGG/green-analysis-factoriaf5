@@ -3,6 +3,7 @@ import { CtSupport, Txt, TxtHashtag, TxtSubtitle, TxtTitle, Video } from './Supp
 import Button from '../button/Button'
 import { CtCompanies } from '../supportCompanies/SupportCompanies.styled'
 import SupportCompanies from '../supportCompanies/SupportCompanies'
+import SupportOrganizations from '../supportOrganizations/SupportOrganizations'
 
 function Support() {
   return (
@@ -13,9 +14,9 @@ function Support() {
         <Video src="https://www.youtube.com/embed/7uv9MOBdKic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></Video>
         <TxtSubtitle>Nos apoyan</TxtSubtitle>
         <TxtHashtag>#EmpresasComprometidas</TxtHashtag>
-        <CtCompanies/>
         <SupportCompanies/>
-
+        <TxtHashtag>Entidades y Organismos colaboradores</TxtHashtag>
+        <SupportOrganizations/>
     </CtSupport>
   )
 }
