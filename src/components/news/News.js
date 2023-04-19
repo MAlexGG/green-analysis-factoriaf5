@@ -6,8 +6,6 @@ import icoIg from '../../assets/socialmedia/instagram.svg';
 
 function News() {
 
-    console.log(data);
-
   return (
     <>
     <CtNews>

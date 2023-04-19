@@ -44,3 +44,17 @@ a:hover {
     color: var(--color-main);
     border-bottom: solid var(--color-main);
 }
+
+.navFooter {
+    font-size: 0.8rem;
+    font-weight: var(--font-light);
+    color: white;
+    border-left: 1.5px solid white;
+    letter-spacing: 0rem;
+    height: auto;
+    padding: 0px 5px;
+}
+
+.navFooter:hover {
+    color: var(--color-dark);
+}
