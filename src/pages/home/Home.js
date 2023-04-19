@@ -9,6 +9,7 @@ import Impact from '../../components/impact/Impact'
 import Methodologies from '../../components/methodologies/Methodologies'
 import Testimonials from '../../components/testimonials/Testimonials'
 import Support from '../../components/support/Support'
+import Footer from '../../components/footer/Footer'
 
 function Home() {
   return (
@@ -22,6 +23,7 @@ function Home() {
         <Methodologies/>
         <Testimonials/>
         <Support/>
+        <Footer/>
     </CtHome>
   )
 }
