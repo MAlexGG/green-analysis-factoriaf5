@@ -33,7 +33,7 @@ export const Txt = styled.p `
 export const TxtHashtag = styled.p `
     font-size: 2rem;
     font-weight: var(--font-regular);
-    margin: 0px;
+    margin: 3% 0% 0% 0%;
 `;
 
 export const Video = styled.iframe`

@@ -39,3 +39,8 @@ a {
     color: var(--color-main);
     border-bottom: solid var(--color-main);
 }
+
+a:hover {
+    color: var(--color-main);
+    border-bottom: solid var(--color-main);
+}

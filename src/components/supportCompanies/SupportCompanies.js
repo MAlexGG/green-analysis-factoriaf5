@@ -13,7 +13,7 @@ function SupportCompanies() {
       } else {
         setList(data.companies[list.id + 1])
       }
-    }, 5000);
+    }, 3000);
   }, [list]);
 
   return (

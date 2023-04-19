@@ -14,7 +14,7 @@ function SupportOrganizations() {
         } else {
         setList(data.organizations[list.id + 1])
         }
-    }, 5000);
+    }, 3000);
     }, [list]);
 
   return (

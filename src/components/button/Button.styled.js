@@ -1,6 +1,9 @@
 import styled from "styled-components";
 
 export const CtButton = styled.button `
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: ${props => props.background};
     color: ${props => props.color};
     border: none;

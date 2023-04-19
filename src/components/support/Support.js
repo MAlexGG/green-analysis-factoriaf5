@@ -1,9 +1,9 @@
 import React from 'react'
 import { CtSupport, Txt, TxtHashtag, TxtSubtitle, TxtTitle, Video } from './Support.styled'
 import Button from '../button/Button'
-import { CtCompanies } from '../supportCompanies/SupportCompanies.styled'
 import SupportCompanies from '../supportCompanies/SupportCompanies'
 import SupportOrganizations from '../supportOrganizations/SupportOrganizations'
+import News from '../news/News'
 
 function Support() {
   return (
@@ -17,6 +17,10 @@ function Support() {
         <SupportCompanies/>
         <TxtHashtag>Entidades y Organismos colaboradores</TxtHashtag>
         <SupportOrganizations/>
+        <TxtHashtag>Novedades en: <strong>@factoria_f5</strong></TxtHashtag>
+        <News/>
+        
+
     </CtSupport>
   )
 }
