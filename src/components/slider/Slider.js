@@ -1,15 +1,13 @@
 import React from 'react';
-import { CtSlider } from './Slider.styled';
+import { CtSlider, Video } from './Slider.styled';
+import VideoHomePage from '../../assets/videos/multimedia-1-home-factoriaf5-web_UJHvoRbY.mp4';
 
 function Slider() {
   return (
     <CtSlider>
-        {/* Video */}
-        {/* <video width="320" height="240" controls>
-  <source src="movie.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>  */}
+      <Video autoPlay loop muted>
+        <source src={VideoHomePage} type="video/mp4"/>
+      </Video>
     </CtSlider>
   )
 }

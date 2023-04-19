@@ -5,7 +5,7 @@ export const CtNavbar = styled.nav `
     justify-content: space-between;
     align-items: center;
     width: 100%;
-    margin: 10px 0px;
+    margin: 10px 0px 0px 0px;
     position: sticky;
     top: -1px;
     background-color: white;

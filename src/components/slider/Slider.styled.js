@@ -6,3 +6,9 @@ export const CtSlider = styled.div `
     width: 1280px;
     max-height: 380px;
 `;
+
+export const Video = styled.video `
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+`;
