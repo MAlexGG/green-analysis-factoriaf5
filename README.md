@@ -13,7 +13,7 @@ Este proyecto se realizó como trabajo final del Certificado Green Digital Skill
 La página original está desarrollada en Wordpress y la réplica en React.js, por lo que se podrá también tener una comparación entre tecnologías, solo se medirá en versión desktop.
 
 ## Análisis
-Los resultados son:
+En esta rama se encuentra el código de la réplica de la web con las mismas imágenes y videos de la página original, intentando que sea lo más parecida posible.
 
 ## Instalación
 - Se requiere React v.18.2.0
