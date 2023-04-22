@@ -24,4 +24,4 @@ jobs:
       - name: deploy the app
         run: npm run deploy
         env: 
-            GREN_DIGITAL_SKILLS: ${{ secrets.GREN_DIGITAL_SKILLS }}
+            GREEN_DIGITAL_SKILLS: ${{ secrets.GREEN_DIGITAL_SKILLS }}
