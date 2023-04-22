@@ -20,9 +20,7 @@
         "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
-        "eject": "react-scripts eject",
-        "predeploy": "npm run build",
-        "deploy": "gh-pages -d build -r https://$GREEN_DIGITAL_SKILLS@github.com/MAlexGG/green-analysis-factoriaf5"
+        "eject": "react-scripts eject"
     },
     "eslintConfig": {
         "extends": [
@@ -41,9 +39,5 @@
             "last 1 firefox version",
             "last 1 safari version"
         ]
-    },
-    "devDependencies": {
-        "gh-pages": "^5.0.0"
-    },
-    "homepage": "https://malexgg.github.io/green-analysis-factoriaf5"
+    }
 }
