@@ -41,5 +41,8 @@
             "last 1 safari version"
         ]
     },
-    "homepage": "https://malexgg.github.io/green-analysis-factoriaf5/"
+    "homepage": "https://malexgg.github.io/green-analysis-factoriaf5/",
+    "devDependencies": {
+        "gh-pages": "^5.0.0"
+    }
 }
