@@ -4,7 +4,7 @@ import App from '../App';
 
 function Router() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/green-analysis-factoriaf5/">
         <Routes>
             <Route path='/' element={<App/>}/>
         </Routes>
