@@ -19,7 +19,7 @@ function Footer() {
             <Button color='white' background='var(--color-main)' hColor='var(--color-dark)' hBackground='var(--color-main)'>Quiero formar parte de Factoría F5</Button>
         </CtButtons>
         <CtFactoria>
-            <ADonation href='https://www.teaming.net/factoriaf5'>
+            <ADonation href='https://www.teaming.net/factoriaf5' target='_blank'>
                 <ATxt>¡HAZ TU DONACIÓN!</ATxt>
                 <ATxt>Sólo 1€ al mes</ATxt>
             </ADonation>
