@@ -13,13 +13,13 @@ export const CtFooter = styled.div `
 
 export const TxtTitle = styled.h2 `
     font-size: 2.5rem;
-    font-weight: var(--font-bold);
+    font-family: var(--font-main-bold);
     color: white;
 `;
 
 export const Txt = styled.p `
     font-size: 0.81rem;
-    font-weight: var(--font-light);
+    font-family: var(--font-main-light);
 `;
 
 export const CtButtons = styled.div `
@@ -57,7 +57,7 @@ export const ADonation = styled.a `
 
 export const ATxt = styled.p `
     font-size: 1rem;
-    font-weight: var(--font-light);
+    font-family: var(--font-main-light);
     color: var(--color-main);
     margin: 0.7rem 0rem;
 `;
@@ -75,7 +75,7 @@ export const CtSocial = styled.div `
 export const ALink = styled.a `
     font-size: 1rem;
     color: var(--color-dark);
-    font-weight: var(--font-bold);
+    font-family: var(--font-main-bold);
     margin: 0px 10px;
 `;
 
@@ -95,7 +95,7 @@ export const CtNav = styled.div `
 
 export const TxtNav = styled.p `
     font-size: 0.8rem;
-    font-weight: var(--font-light);
+    font-family: var(--font-main-light);
     color: white;
     margin: 0px 10px 0px 0px;
 `;

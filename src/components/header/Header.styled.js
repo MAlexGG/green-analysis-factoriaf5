@@ -34,7 +34,7 @@ export const CtSocial = styled.div `
 export const ALink = styled.a `
     font-size: 1rem;
     color: var(--color-dark);
-    font-weight: var(--font-bold);
+    font-family: var(--font-main-bold);
     margin: 0px 10px;
 `;
 

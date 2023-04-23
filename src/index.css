@@ -1,10 +1,30 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,500;0,700;1,300&family=Rubik:wght@500&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,500;0,700;1,300&family=Rubik:wght@500&display=swap'); */
+
+@font-face {
+    font-family: 'Rubik';
+    src: url('../src/assets/fonts/Rubik-Medium.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'PoppinsLight';
+    src: url('../src/assets/fonts/Poppins-Light.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'PoppinsMedium';
+    src: url('../src/assets/fonts/Poppins-Medium.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'PoppinsBold';
+    src: url('../src/assets/fonts/Poppins-Bold.woff') format('woff');
+}
+
 :root {
-    --font-main: 'Poppins', sans-serif;
+    --font-main: 'PoppinsMedium', sans-serif;
     --font-secondary: 'Rubik', sans-serif;
-    --font-bold: 700;
-    --font-regular: 500;
-    --font-light: 300;
+    --font-main-bold: 'PoppinsBold', sans-serif;
+    --font-main-light: 'PoppinsLight', sans-serif;
     --color-main: #FF4702;
     --color-dark: #020100;
     --color-grey: #F7F8F9;

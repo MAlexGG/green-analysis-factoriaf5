@@ -35,13 +35,13 @@ export const ImgIcon = styled.img `
 `;
 
 export const TxtTitle = styled.h4 `
-    font-weight: var(--font-regular);
+    font-family: var(--font-main);
     font-size: 2rem;
     margin: 3%;
 `;
 
 export const Txt = styled.p `
-    font-weight: var(--font-light);
+    font-family: var(--font-main-light);
     font-size: 1rem;
 `;
 

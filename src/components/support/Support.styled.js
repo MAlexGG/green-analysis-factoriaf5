@@ -12,19 +12,18 @@ export const TxtTitle = styled.h2 `
     width: 90%;
     background-color: var(--color-main);
     color: white;
-    font-weight: var(--font-regular);
+    font-family: var(--font-main);
     font-size: 2rem;
     padding: 1%;
 `;
 
 export const TxtSubtitle = styled.h3 `
     font-size: 2.5rem;
-    font-weight: var(--font-bold);
+    font-family: var(--font-main-bold);
 `;
 
 export const Txt = styled.p `
     font-family: var(--font-secondary);
-    font-weight: var(--font-regular);
     color: var(--color-dark);
     font-size: 1.25rem;
     margin: 3% 0% 5% 0%;
@@ -32,7 +31,7 @@ export const Txt = styled.p `
 
 export const TxtHashtag = styled.p `
     font-size: 2rem;
-    font-weight: var(--font-regular);
+    font-family: var(--font-main);
     margin: 3% 0% 0% 0%;
 `;
 

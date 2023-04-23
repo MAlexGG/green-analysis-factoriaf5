@@ -9,7 +9,7 @@ export const CtImpact = styled.div `
 export const TxtTitle = styled.h3 `
     font-size: 2.5rem;
     color: var(--color-dark);
-    font-weight: var(--font-bold);
+    font-family: var(--font-main-bold);
 `;
 
 export const CtCounters = styled.div `
@@ -24,7 +24,7 @@ export const CtCounter = styled.div `
     width: 26%;
     height: auto;
     color: white;
-    font-weight: var(--font-bold);
+    font-family: var(--font-main-bold);
     font-size: 3rem;
     padding: 1.5rem;
     margin: 1rem;
@@ -32,7 +32,7 @@ export const CtCounter = styled.div `
 
 export const Txt = styled.p `
     color: white;
-    font-weight: var(--font-bold);
+    font-family: var(--font-main-bold);
     font-size: 1.25rem;
     margin: 0px;
 `;
@@ -56,7 +56,6 @@ export const CtCoders = styled.div `
 export const TxtCoders = styled.p `
     font-size: 1.2rem;
     font-family: var(--font-secondary);
-    font-weight: var(--font-regular);
     margin: 1rem 5rem;
     line-height: 2.2rem;
     color: var(--color-dark);
