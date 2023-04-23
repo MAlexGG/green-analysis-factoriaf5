@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import google from '../../assets/ex-coders/gen-z-4-2.png';
+import google from '../../assets/ex-coders/gen-z-4-2.webp';
 
 export const CtGoogle = styled.div `
 

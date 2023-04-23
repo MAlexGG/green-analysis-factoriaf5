@@ -1,7 +1,7 @@
 import React from 'react'
 import { CtFemCoders, CtGoogle, CtInfo, ImgGoogle, Txt, TxtTitle } from './Google.styled'
 import Button from '../button/Button';
-import google from '../../assets/logos/google-org-logo-400x89.png';
+import google from '../../assets/logos/google-org-logo-400x89.webp';
 
 function Google() {
 

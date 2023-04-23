@@ -3,23 +3,23 @@
             "id": 0,
             "organization": [{
                     "id": 0,
-                    "image": "1-Entidad.png"
+                    "image": "1-Entidad.webp"
                 },
                 {
                     "id": 1,
-                    "image": "2-Entidad.png"
+                    "image": "2-Entidad.webp"
                 },
                 {
                     "id": 2,
-                    "image": "3-Entidad.png"
+                    "image": "3-Entidad.webp"
                 },
                 {
                     "id": 3,
-                    "image": "4-Entidad.png"
+                    "image": "4-Entidad.webp"
                 },
                 {
                     "id": 4,
-                    "image": "5-Entidad.png"
+                    "image": "5-Entidad.webp"
                 }
             ]
         },
@@ -27,23 +27,23 @@
             "id": 1,
             "organization": [{
                     "id": 0,
-                    "image": "6-Entidad.png"
+                    "image": "6-Entidad.webp"
                 },
                 {
                     "id": 1,
-                    "image": "7-Entidad.png"
+                    "image": "7-Entidad.webp"
                 },
                 {
                     "id": 2,
-                    "image": "8-Entidad.png"
+                    "image": "8-Entidad.webp"
                 },
                 {
                     "id": 3,
-                    "image": "9-Entidad.png"
+                    "image": "9-Entidad.webp"
                 },
                 {
                     "id": 4,
-                    "image": "10-Entidad.png"
+                    "image": "10-Entidad.webp"
                 }
             ]
         },
@@ -51,23 +51,23 @@
             "id": 2,
             "organization": [{
                     "id": 0,
-                    "image": "11-Entidad.png"
+                    "image": "11-Entidad.webp"
                 },
                 {
                     "id": 1,
-                    "image": "12-Entidad.png"
+                    "image": "12-Entidad.webp"
                 },
                 {
                     "id": 2,
-                    "image": "13-Entidad.png"
+                    "image": "13-Entidad.webp"
                 },
                 {
                     "id": 3,
-                    "image": "14-Entidad.png"
+                    "image": "14-Entidad.webp"
                 },
                 {
                     "id": 4,
-                    "image": "15-Entidad.png"
+                    "image": "15-Entidad.webp"
                 }
             ]
         },
@@ -75,23 +75,23 @@
             "id": 3,
             "organization": [{
                     "id": 0,
-                    "image": "16-Entidad.png"
+                    "image": "16-Entidad.webp"
                 },
                 {
                     "id": 1,
-                    "image": "17-Entidad.png"
+                    "image": "17-Entidad.webp"
                 },
                 {
                     "id": 2,
-                    "image": "18-Entidad.png"
+                    "image": "18-Entidad.webp"
                 },
                 {
                     "id": 3,
-                    "image": "19-Entidad.png"
+                    "image": "19-Entidad.webp"
                 },
                 {
                     "id": 4,
-                    "image": "20-Entidad.png"
+                    "image": "20-Entidad.webp"
                 }
             ]
         },
@@ -99,23 +99,23 @@
             "id": 4,
             "organization": [{
                     "id": 0,
-                    "image": "21-Entidad.png"
+                    "image": "21-Entidad.webp"
                 },
                 {
                     "id": 1,
-                    "image": "22-Entidad.png"
+                    "image": "22-Entidad.webp"
                 },
                 {
                     "id": 2,
-                    "image": "23-Entidad.png"
+                    "image": "23-Entidad.webp"
                 },
                 {
                     "id": 3,
-                    "image": "24-Entidad.png"
+                    "image": "24-Entidad.webp"
                 },
                 {
                     "id": 4,
-                    "image": "25-Entidad.png"
+                    "image": "25-Entidad.webp"
                 }
             ]
         },
@@ -123,23 +123,23 @@
             "id": 5,
             "organization": [{
                     "id": 0,
-                    "image": "26-Entidad.png"
+                    "image": "26-Entidad.webp"
                 },
                 {
                     "id": 1,
-                    "image": "27-Entidad.png"
+                    "image": "27-Entidad.webp"
                 },
                 {
                     "id": 2,
-                    "image": "28-Entidad.png"
+                    "image": "28-Entidad.webp"
                 },
                 {
                     "id": 3,
-                    "image": "29-Entidad.png"
+                    "image": "29-Entidad.webp"
                 },
                 {
                     "id": 4,
-                    "image": "30-Entidad.png"
+                    "image": "30-Entidad.webp"
                 }
             ]
         },
@@ -147,23 +147,23 @@
             "id": 6,
             "organization": [{
                     "id": 0,
-                    "image": "31-Entidad.png"
+                    "image": "31-Entidad.webp"
                 },
                 {
                     "id": 1,
-                    "image": "32-Entidad.png"
+                    "image": "32-Entidad.webp"
                 },
                 {
                     "id": 2,
-                    "image": "33-Entidad.png"
+                    "image": "33-Entidad.webp"
                 },
                 {
                     "id": 3,
-                    "image": "34-Entidad.png"
+                    "image": "34-Entidad.webp"
                 },
                 {
                     "id": 4,
-                    "image": "35-Entidad.png"
+                    "image": "35-Entidad.webp"
                 }
             ]
         },
@@ -171,15 +171,15 @@
             "id": 7,
             "organization": [{
                     "id": 0,
-                    "image": "36-Entidad.png"
+                    "image": "36-Entidad.webp"
                 },
                 {
                     "id": 1,
-                    "image": "37-Entidad.png"
+                    "image": "37-Entidad.webp"
                 },
                 {
                     "id": 2,
-                    "image": "38-Entidad.png"
+                    "image": "38-Entidad.webp"
                 }
             ]
         }

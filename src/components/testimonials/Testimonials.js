@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { CtApply, CtDots, CtImg, CtTestimonials, CtVideos, Dot, Img, ImgDeco, Txt, TxtName, TxtTitle, Video } from './Testimonials.styled';
 import data from '../../assets/data/testimonials.json';
-import deco2 from '../../assets/logos/Banner-geometrico-2.png';
+import deco2 from '../../assets/logos/Banner-geometrico-2.webp';
 import Button from '../button/Button';
 
 function Testimonials() {

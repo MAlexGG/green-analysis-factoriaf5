@@ -3,19 +3,19 @@
             "id": 0,
             "company": [{
                     "id": 0,
-                    "image": "1-Empresa.png"
+                    "image": "1-Empresa.webp"
                 },
                 {
                     "id": 1,
-                    "image": "2-Empresa.png"
+                    "image": "2-Empresa.webp"
                 },
                 {
                     "id": 2,
-                    "image": "3-Empresa.png"
+                    "image": "3-Empresa.webp"
                 },
                 {
                     "id": 3,
-                    "image": "4-Empresa.png"
+                    "image": "4-Empresa.webp"
                 },
                 {
                     "id": 4,
@@ -27,23 +27,23 @@
             "id": 1,
             "company": [{
                     "id": 0,
-                    "image": "6-Empresa.png"
+                    "image": "6-Empresa.webp"
                 },
                 {
                     "id": 1,
-                    "image": "7-Empresa.png"
+                    "image": "7-Empresa.webp"
                 },
                 {
                     "id": 2,
-                    "image": "8-Empresa.png"
+                    "image": "8-Empresa.webp"
                 },
                 {
                     "id": 3,
-                    "image": "9-Empresa.png"
+                    "image": "9-Empresa.webp"
                 },
                 {
                     "id": 4,
-                    "image": "10-Empresa.png"
+                    "image": "10-Empresa.webp"
                 }
             ]
         },
@@ -51,23 +51,23 @@
             "id": 2,
             "company": [{
                     "id": 0,
-                    "image": "11-Empresa.png"
+                    "image": "11-Empresa.webp"
                 },
                 {
                     "id": 1,
-                    "image": "12-Empresa.png"
+                    "image": "12-Empresa.webp"
                 },
                 {
                     "id": 2,
-                    "image": "13-Empresa.png"
+                    "image": "13-Empresa.webp"
                 },
                 {
                     "id": 3,
-                    "image": "14-Empresa.png"
+                    "image": "14-Empresa.webp"
                 },
                 {
                     "id": 4,
-                    "image": "15-Empresa.png"
+                    "image": "15-Empresa.webp"
                 }
             ]
         },
@@ -75,23 +75,23 @@
             "id": 3,
             "company": [{
                     "id": 0,
-                    "image": "16-Empresa.png"
+                    "image": "16-Empresa.webp"
                 },
                 {
                     "id": 1,
-                    "image": "17-Empresa.png"
+                    "image": "17-Empresa.webp"
                 },
                 {
                     "id": 2,
-                    "image": "18-Empresa.png"
+                    "image": "18-Empresa.webp"
                 },
                 {
                     "id": 3,
-                    "image": "19-Empresa.png"
+                    "image": "19-Empresa.webp"
                 },
                 {
                     "id": 4,
-                    "image": "20-Empresa.png"
+                    "image": "20-Empresa.webp"
                 }
             ]
         },
@@ -99,23 +99,23 @@
             "id": 4,
             "company": [{
                     "id": 0,
-                    "image": "21-Empresa.png"
+                    "image": "21-Empresa.webp"
                 },
                 {
                     "id": 1,
-                    "image": "22-Empresa.png"
+                    "image": "22-Empresa.webp"
                 },
                 {
                     "id": 2,
-                    "image": "23-Empresa.png"
+                    "image": "23-Empresa.webp"
                 },
                 {
                     "id": 3,
-                    "image": "24-Empresa.png"
+                    "image": "24-Empresa.webp"
                 },
                 {
                     "id": 4,
-                    "image": "25-Empresa.png"
+                    "image": "25-Empresa.webp"
                 }
             ]
         },
@@ -123,23 +123,23 @@
             "id": 5,
             "company": [{
                     "id": 0,
-                    "image": "26-Empresa.png"
+                    "image": "26-Empresa.webp"
                 },
                 {
                     "id": 1,
-                    "image": "27-Empresa.png"
+                    "image": "27-Empresa.webp"
                 },
                 {
                     "id": 2,
-                    "image": "28-Empresa.png"
+                    "image": "28-Empresa.webp"
                 },
                 {
                     "id": 3,
-                    "image": "29-Empresa.png"
+                    "image": "29-Empresa.webp"
                 },
                 {
                     "id": 4,
-                    "image": "30-Empresa.png"
+                    "image": "30-Empresa.webp"
                 }
             ]
         },
@@ -147,23 +147,23 @@
             "id": 6,
             "company": [{
                     "id": 0,
-                    "image": "31-Empresa.png"
+                    "image": "31-Empresa.webp"
                 },
                 {
                     "id": 1,
-                    "image": "32-Empresa.png"
+                    "image": "32-Empresa.webp"
                 },
                 {
                     "id": 2,
-                    "image": "33-Empresa.png"
+                    "image": "33-Empresa.webp"
                 },
                 {
                     "id": 3,
-                    "image": "34-Empresa.png"
+                    "image": "34-Empresa.webp"
                 },
                 {
                     "id": 4,
-                    "image": "35-Empresa.png"
+                    "image": "35-Empresa.webp"
                 }
             ]
         },
@@ -171,15 +171,15 @@
             "id": 7,
             "company": [{
                     "id": 0,
-                    "image": "36-Empresa.png"
+                    "image": "36-Empresa.webp"
                 },
                 {
                     "id": 1,
-                    "image": "37-Empresa.png"
+                    "image": "37-Empresa.webp"
                 },
                 {
                     "id": 2,
-                    "image": "38-Empresa.png"
+                    "image": "38-Empresa.webp"
                 }
             ]
         }

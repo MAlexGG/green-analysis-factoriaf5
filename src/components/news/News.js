@@ -11,7 +11,7 @@ function News() {
     <CtNews>
       {data.instagram.map((ig, index) => (
         <CtInstagram key={index} href={ig.url} target='_blank'>
-          <ImgInstagram src={ig.image} alt={ig.alt}/>
+          <ImgInstagram src={require(`/src/assets/instagram/${ig.image}`)} alt={ig.alt}/>
         </CtInstagram>
       ))}
       

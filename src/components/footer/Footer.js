@@ -1,7 +1,7 @@
 import React from 'react'
 import { ADonation, ATxt, CtButtons, CtFactoria, CtFooter, TxtTitle, LogoFooter, CtSocial, ALink, ImgLinks, CtNav, TxtNav } from './Footer.styled';
 import Button from '../button/Button';
-import Logo from '../../assets/logos/logo-footer.png';
+import Logo from '../../assets/logos/logo-footer.webp';
 import linkedin from '../../assets/socialmedia/linkedin.svg';
 import twitter from '../../assets/socialmedia/twitter.svg';
 import ig from '../../assets/socialmedia/instagram.svg';

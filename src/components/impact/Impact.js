@@ -1,8 +1,8 @@
 import React from 'react'
 import { CtCounter, CtCounters, CtCoders, CtImpact, ImgCoders, ImgDeco, Txt, TxtCoders, TxtTitle } from './Impact.styled';
 import CountUp from 'react-countup';
-import deco1 from '../../assets/logos/Banner-geometrico-1.png';
-import coders from '../../assets/ex-coders/B-APRENDE-IMAGEN-1.jpg';
+import deco1 from '../../assets/logos/Banner-geometrico-1.webp';
+import coders from '../../assets/ex-coders/B-APRENDE-IMAGEN-1.webp';
 
 function Impact() {
   return (
