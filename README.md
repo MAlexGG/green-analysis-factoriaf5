@@ -13,7 +13,8 @@ Este proyecto se realizó como trabajo final del Certificado Green Digital Skill
 La página original está desarrollada en Wordpress y la réplica en React.js, por lo que se podrá también tener una comparación entre tecnologías, solo se medirá en versión desktop.
 
 ## Análisis
-En esta rama se encuentra el código de la réplica de la web con las mismas imágenes y videos de la página original, intentando que sea lo más parecida posible.
+En esta rama se encuentra el código de la réplica de la web con todas las imágenes cambiadas a extensión webp realizadas con la herramienta https://squoosh.app/ cambiando el esfuerzo a 4 y una calidad de 80.
+También se cambiaron las imágenes de instagram que antes hacían una llamada http a la base de datos de wordpress, las imágenes se incluyeron en la carpeta "instagram" dentro de "assets"
 
 ## Instalación
 - Se requiere React v.18.2.0
