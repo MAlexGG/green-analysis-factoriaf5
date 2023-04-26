@@ -1,11 +1,15 @@
 {
   "files": {
-    "main.css": "/green-analysis-factoriaf5/static/css/main.be9f0432.css",
-    "main.js": "/green-analysis-factoriaf5/static/js/main.3ed65d2c.js",
+    "main.css": "/green-analysis-factoriaf5/static/css/main.fa7cd669.css",
+    "main.js": "/green-analysis-factoriaf5/static/js/main.90235f37.js",
     "static/js/787.7922edf7.chunk.js": "/green-analysis-factoriaf5/static/js/787.7922edf7.chunk.js",
-    "static/media/multimedia-1-home-factoriaf5-web_UJHvoRbY.mp4": "/green-analysis-factoriaf5/static/media/multimedia-1-home-factoriaf5-web_UJHvoRbY.8d9e0b3318555b72abd8.mp4",
+    "static/media/VideoInicio.mp4": "/green-analysis-factoriaf5/static/media/VideoInicio.23011456998c613ef099.mp4",
     "static/media/B-APRENDE-IMAGEN-1.webp": "/green-analysis-factoriaf5/static/media/B-APRENDE-IMAGEN-1.5632b47b7c70c862017e.webp",
     "static/media/gen-z-4-2.webp": "/green-analysis-factoriaf5/static/media/gen-z-4-2.ed5b1f2e1d134aff0a68.webp",
+    "static/media/Poppins-Light.woff": "/green-analysis-factoriaf5/static/media/Poppins-Light.1cce841e1dd4a0ac4f1e.woff",
+    "static/media/Poppins-Medium.woff": "/green-analysis-factoriaf5/static/media/Poppins-Medium.ea2359ae070945d528e1.woff",
+    "static/media/Poppins-Bold.woff": "/green-analysis-factoriaf5/static/media/Poppins-Bold.d43f2660fae51d565685.woff",
+    "static/media/Rubik-Medium.woff": "/green-analysis-factoriaf5/static/media/Rubik-Medium.98e6ffb42dda23edaccf.woff",
     "static/media/ai.webp": "/green-analysis-factoriaf5/static/media/ai.34caed5e68b10efc87a4.webp",
     "static/media/nuevo_talento_digital.webp": "/green-analysis-factoriaf5/static/media/nuevo_talento_digital.a8d5ddce2dcee958e97e.webp",
     "static/media/3-Silvia.webp": "/green-analysis-factoriaf5/static/media/3-Silvia.bf14f00f93d95be3b0a3.webp",
@@ -113,12 +117,12 @@
     "static/media/youtube.svg": "/green-analysis-factoriaf5/static/media/youtube.5b35b09ba2c9e6ec75ad63405faebfb6.svg",
     "static/media/facebook.svg": "/green-analysis-factoriaf5/static/media/facebook.4c56ad960dd936b1801dd4f0f0764bf9.svg",
     "index.html": "/green-analysis-factoriaf5/index.html",
-    "main.be9f0432.css.map": "/green-analysis-factoriaf5/static/css/main.be9f0432.css.map",
-    "main.3ed65d2c.js.map": "/green-analysis-factoriaf5/static/js/main.3ed65d2c.js.map",
+    "main.fa7cd669.css.map": "/green-analysis-factoriaf5/static/css/main.fa7cd669.css.map",
+    "main.90235f37.js.map": "/green-analysis-factoriaf5/static/js/main.90235f37.js.map",
     "787.7922edf7.chunk.js.map": "/green-analysis-factoriaf5/static/js/787.7922edf7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be9f0432.css",
-    "static/js/main.3ed65d2c.js"
+    "static/css/main.fa7cd669.css",
+    "static/js/main.90235f37.js"
   ]
 }
