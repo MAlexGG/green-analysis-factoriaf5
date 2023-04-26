@@ -21,8 +21,7 @@ export const CtFemCoders = styled.button `
     display: flex;
     justify-content: center;
     flex-direction: column;
-    font-family: var(--font-main);
-    font-weight: var(--font-light);
+    font-family: var(--font-main-light);
     width: 42%;
     height: 68%;
     background: white;
@@ -44,14 +43,14 @@ export const CtInfo = styled.div `
 
 export const TxtTitle = styled.h3 `
     font-size: 2rem;
-    font-weight: var(--font-regular);
+    font-family: var(--font-main);
     color: var(--color-dark);
     margin: 2rem 0px 0px 0px;
 `;
 
 export const Txt = styled.p `
     font-size: 1rem;
-    font-weight: var(--font-light);
+    font-family: var(--font-main-light);
     margin: 1.5rem;
     line-height: 1.8rem;
     color: var(--color-dark);

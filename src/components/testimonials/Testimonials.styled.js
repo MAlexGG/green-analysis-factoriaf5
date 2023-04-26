@@ -13,7 +13,7 @@ export const CtTestimonials = styled.div `
 
 export const TxtTitle = styled.h2 `
     font-size: 2.5rem;
-    font-weight: var(--font-bold);
+    font-family: var(--font-main-bold);
     color: var(--color-dark);
     margin: 5%;
 `;
@@ -32,7 +32,7 @@ export const Img = styled.img `
 `;
 
 export const Txt = styled.p `
-    font-weight: var(--font-light);
+    font-family: var(--font-main-light);
     font-style: italic;
     font-size: 1.2rem;
     color: var(--color-dark-grey);
@@ -42,7 +42,7 @@ export const Txt = styled.p `
 `; 
 
 export const TxtName = styled.p `
-    font-weight: var(--font-light);
+    font-family: var(--font-main-light);
     font-size: 1.2rem;
     color: var(--color-dark-grey);
     letter-spacing: 0.1rem;
