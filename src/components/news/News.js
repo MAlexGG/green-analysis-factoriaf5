@@ -18,7 +18,7 @@ function News() {
                
     </CtNews>
     <Button color='white' background='#408bd1' hColor='white' hBackground='#359dff'>
-      <ImgButton src={icoIg}/>
+      <ImgButton src={icoIg} alt='instagram icon'/>
       Sigue en Instagram
     </Button>
   </>

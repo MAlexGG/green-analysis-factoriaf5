@@ -1,21 +1,25 @@
 @font-face {
     font-family: 'Rubik';
     src: url('../src/assets/fonts/Rubik-Medium.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'PoppinsLight';
     src: url('../src/assets/fonts/Poppins-Light.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'PoppinsMedium';
     src: url('../src/assets/fonts/Poppins-Medium.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'PoppinsBold';
     src: url('../src/assets/fonts/Poppins-Bold.woff') format('woff');
+    font-display: swap;
 }
 
 :root {
